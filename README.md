@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HaiderB22
-- 👀 I’m interested in becoming a Cloud Engineer and then moving into DevOps role. Find backend stuff really fun!
-- 🌱 I’m currently learning Everything! :D I'm enrolled on an AWS re/start course and learning the fundamentals! (AWS, Linux, Python, SQL, Bash Shell scripting)
+- 👀 I’m interested in becoming a DevOps Engineer. 
+- 🌱 I’m currently learning Everything! :D I've completed an AWS re/start course where i have been learning the fundamentals! (AWS, Linux, Python, SQL, Bash Shell scripting)
+- 🌱 I've also completed a training Academy with Ten10.
 - 💞️ I’m looking to collaborate on all kinds of project!
 - 📫 How to reach me... on here if possible!
 
